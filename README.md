@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ AI World Models for Predictive Cyber Defence
 
 > **Smart India Hackathon (SIH) Prototype**  
@@ -158,3 +159,6 @@ Replacing the demo with a real FastAPI backend only requires updating the two se
 ## 📄 License
 
 MIT — Free for educational and hackathon use.
+=======
+# SentinelX
+>>>>>>> 62667e55fd9c27ec72fc8b4b97175f220987d889
